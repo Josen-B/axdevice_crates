@@ -13,6 +13,6 @@ cfg-if = "1.0"
 serde = { version = "1.0.204", default-features = false, features = ["derive", "alloc"] }
 # System independent crates provided by ArceOS.
 axerrno = "0.1.0"
-axaddrspace = "0.1.0"
-axvmconfig = { version = "0.1.0", default-features = false }
+axaddrspace = "0.1"
+axvmconfig = { version = "0.1", default-features = false }
 memory_addr = "0.4"
